@@ -24,7 +24,7 @@
 *   3. They are defined during object creation and method overriding is done
 * Static inner class:
 *   1. They are static classes defined inside another class
-*   2. Objects of inner classes can be created from anywhere outside the outer classes without having to create objects of outer classes
+*   2. Objects of static inner classes can be created from anywhere outside the outer classes without having to create objects of outer classes
 *   3. They can directly access only the static properties/members/variables of outer class
  */
 
